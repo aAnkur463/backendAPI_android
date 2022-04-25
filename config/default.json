@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://ankur:ankur@cluster0.y7syi.mongodb.net/ecomerce_ankur?retryWrites=true&w=majority"
+}
